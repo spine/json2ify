@@ -1,10 +1,11 @@
 {
   "name": "json2ify",
   "description": "JSON2 lib for browsers",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "contributors": ["maccman", "aeischeid"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/spine/json2.git"
+    "url": "git://github.com/spine/json2ify.git"
   },
   "author": "Alex MacCaw <info@eribium.org>",
   "engines": {
