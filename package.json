@@ -7,6 +7,10 @@
     "type": "git",
     "url": "git://github.com/spine/json2ify.git"
   },
+  "licenses": [{
+      "type": "MIT",
+      "url": "https://github.com/spine/json2ify/blob/master/LICENSE"
+  }],
   "author": "Alex MacCaw <info@eribium.org>",
   "engines": {
     "node": "*"
